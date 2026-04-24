@@ -1,0 +1,4 @@
+#include<stdio.h>
+#define lim 5 // constante para vector
+void main
+{
